@@ -1,4 +1,4 @@
-[Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
+[:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
 ## Prédiction de l'issue de matchs de football :soccer:
 
