@@ -1,6 +1,6 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-## Prédiction de l'issue de matchs de football :soccer:
+# Prédiction de l'issue de matchs de football :soccer:
 
 J'ai joué quelques années au football et je me demandais si on pouvait prévoir l'issue d'un match. En d'autres mots, prévoir quelle équipe va l'emporter ou si le match se finira par une égalité. 
 
