@@ -14,4 +14,4 @@ Mon algorithme arrive à prévoir correctement 60% des issues de matchs de foot.
 
 # Code
 
-Voici le code du projet : [notebook](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Projet_1_Classification_Odds_Football_leagues.ipynb)
+Voici le code du projet : [notebook](https://github.com/ThibaultLanthiez/Prediction-issue-matchs-foot/blob/main/Odds_Football_leagues.ipynb)
